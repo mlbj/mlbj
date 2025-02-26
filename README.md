@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mauro Brandão!
 
-Welcome to my GitHub profile! I’m a software engineer at the Scientific Computing Group at Sirius, Brazil.
+Welcome to my GitHub profile! 
 
 ## Get in Touch
 - **Email:** mauro.brandao@lnls.br
